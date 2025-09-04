@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="gProfile.png" alt="Profile Image" width="200"/>
+    <img src="gProfile.png" alt="Profile Image" width="700"/>
 </p>
 
 
