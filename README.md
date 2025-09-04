@@ -1,5 +1,10 @@
+<p align="center">
+    <img src="gProfile.png" alt="Profile Image" width="200"/>
+</p>
+
+
 # 💫 About Me:
-I'm a passionate and versatile developer with a strong background in both front-end and back-end technologies. My primary focus is on building modern, responsive applications using React and React Native. I also have a solid foundation in Python and Flask and consider myself a lifelong tech enthusiast.
+I'm a passionate and versatile developer with a strong background in both front-end and back-end technologies. Currently I am working on building modern, responsive applications using React and React Native. I also have a solid foundation in Java, Python and Flask and consider myself a lifelong tech enthusiast.
 
 
 ## 🌐 Socials:
